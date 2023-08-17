@@ -1,0 +1,25 @@
+{
+  "name": "main_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
+    "commitlint": "commitlint -e $GIT_PARAMS"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@commitlint/cli": "^17.7.1",
+    "@commitlint/config-conventional": "^17.7.0",
+    "@semantic-release/changelog": "^6.0.3",
+    "conventional-changelog-cli": "^3.0.0",
+    "husky": "^8.0.3",
+    "semantic-release": "^21.0.7"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run commitlint"
+    }
+  }
+}
