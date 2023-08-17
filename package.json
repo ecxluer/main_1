@@ -4,9 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
-    "commitlint": "commitlint -e $GIT_PARAMS",
-    "semantic-release": "semantic-release"
   },
   "author": "",
   "license": "ISC",
