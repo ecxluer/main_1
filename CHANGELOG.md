@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/ecxluer/main_1/compare/v1.0.8...v1.1.0) (2023-08-17)
+
+
+### Features
+
+* added new route ([0eeb556](https://github.com/ecxluer/main_1/commit/0eeb5568cfa70a706c04dc3be13398028987b89e))
+
 ## [1.0.8](https://github.com/ecxluer/main_1/compare/v1.0.7...v1.0.8) (2023-08-17)
 
 
