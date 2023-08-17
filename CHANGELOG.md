@@ -1,3 +1,13 @@
+## [1.0.6](https://github.com/ecxluer/main_1/compare/v1.0.5...v1.0.6) (2023-08-17)
+
+
+### Bug Fixes
+
+* виправлено помилку у коді ([cf67f7e](https://github.com/ecxluer/main_1/commit/cf67f7ed85b073749f42ea31910d4a23afcbb273))
+* виправлено помилку у коді ([57adfb6](https://github.com/ecxluer/main_1/commit/57adfb6a584458c0e59fc78051fb2a4cc5d251d8))
+* виправлено помилку у коді ([b106290](https://github.com/ecxluer/main_1/commit/b1062907af84095fa040270f0f5b8e72981a75b6))
+* виправлено помилку у коді ([038730a](https://github.com/ecxluer/main_1/commit/038730a74e1f737e2f2792398cfd117e6760aae5))
+
 ## [1.0.5](https://github.com/ecxluer/main_1/compare/v1.0.4...v1.0.5) (2023-08-17)
 
 
