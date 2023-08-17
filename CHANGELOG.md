@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/ecxluer/main_1/compare/v1.1.0...v1.2.0) (2023-08-17)
+
+
+### Features
+
+* 4 ([2b8dd86](https://github.com/ecxluer/main_1/commit/2b8dd86a709ab32beae43ffe279456919529f795))
+
 # [1.1.0](https://github.com/ecxluer/main_1/compare/v1.0.8...v1.1.0) (2023-08-17)
 
 
