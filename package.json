@@ -3,7 +3,9 @@
   "version": "1.2.1",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "prepare": "husky install"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
@@ -12,13 +14,8 @@
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
     "conventional-changelog-cli": "^3.0.0",
-    "husky": "^8.0.3",
+    "husky": "^8.0.0",
     "semantic-release": "^21.0.7"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run commitlint"
-    }
   },
   "repository": {
     "type": "git",
