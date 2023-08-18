@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/ecxluer/main_1/compare/v1.4.0...v1.4.1) (2023-08-18)
+
+
+### Bug Fixes
+
+* **MK-2445:** updated doc 8 ([a487c1b](https://github.com/ecxluer/main_1/commit/a487c1b2fd640e3a34f57223312a4bd9876a889e))
+
 # [1.4.0](https://github.com/ecxluer/main_1/compare/v1.3.0...v1.4.0) (2023-08-18)
 
 
