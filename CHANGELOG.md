@@ -1,3 +1,17 @@
+# [1.5.0](https://github.com/ecxluer/main_1/compare/v1.4.1...v1.5.0) (2023-08-18)
+
+
+### Bug Fixes
+
+* **MK-2445:** fix v1 ([0737c07](https://github.com/ecxluer/main_1/commit/0737c07296c5bae9e3e7e5db74fd20e699144fbf))
+* **MK-2445:** fix v3 ([0737c07](https://github.com/ecxluer/main_1/commit/0737c07296c5bae9e3e7e5db74fd20e699144fbf))
+
+
+### Features
+
+* **MK-2445:** feat v3 ([0737c07](https://github.com/ecxluer/main_1/commit/0737c07296c5bae9e3e7e5db74fd20e699144fbf))
+* **MK-2445:** fix v3 ([0737c07](https://github.com/ecxluer/main_1/commit/0737c07296c5bae9e3e7e5db74fd20e699144fbf))
+
 ## [1.4.1](https://github.com/ecxluer/main_1/compare/v1.4.0...v1.4.1) (2023-08-18)
 
 
