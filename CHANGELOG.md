@@ -1,3 +1,11 @@
+# [1.4.0](https://github.com/ecxluer/main_1/compare/v1.3.0...v1.4.0) (2023-08-18)
+
+
+### Features
+
+* updated doc 5 ([2d8612e](https://github.com/ecxluer/main_1/commit/2d8612eca4b6bffa1b332d948c8ee6191387fc37))
+* updated doc 8 ([2d8612e](https://github.com/ecxluer/main_1/commit/2d8612eca4b6bffa1b332d948c8ee6191387fc37))
+
 # [1.3.0](https://github.com/ecxluer/main_1/compare/v1.2.2...v1.3.0) (2023-08-18)
 
 
