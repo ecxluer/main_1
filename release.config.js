@@ -1,8 +1,7 @@
 module.exports = {
     branches: ['main'], // Гілка, на якій ви хочете проводити версіонування
     plugins: [
-        '@semantic-release/commit-analyzer',
-        '@semantic-release/release-notes-generator',
+        'semantic-release-unsquash',
         '@semantic-release/changelog',
         '@semantic-release/github',
         [
@@ -14,10 +13,6 @@ module.exports = {
         [
             '@semantic-release/git',
             {
-                assets: [
-                    'CHANGELOG.md',
-                    'package.json'
-                ],
                 message: 'chore(release): ${nextRelease.version} [skip ci]'
             }
         ]
