@@ -1,3 +1,18 @@
+## [1.2.2](https://github.com/ecxluer/main_1/compare/v1.2.1...v1.2.2) (2023-08-17)
+
+
+### Bug Fixes
+
+* reformat ([dc64200](https://github.com/ecxluer/main_1/commit/dc6420028d08b46e77b71eba8b3b33b530443794))
+* reformat ([3c52f92](https://github.com/ecxluer/main_1/commit/3c52f92fd0bac238d517759f7848d9e5409ebd59))
+
+## [1.2.1](https://github.com/ecxluer/main_1/compare/v1.2.0...v1.2.1) (2023-08-17)
+
+
+### Bug Fixes
+
+* reformat ([99424a7](https://github.com/ecxluer/main_1/commit/99424a7903e7988bffe0490176befd19925ba003))
+
 # [1.2.0](https://github.com/ecxluer/main_1/compare/v1.1.0...v1.2.0) (2023-08-17)
 
 

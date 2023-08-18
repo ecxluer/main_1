@@ -1,9 +1,11 @@
 {
   "name": "main_1",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "prepare": "husky install"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
@@ -12,14 +14,8 @@
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
     "conventional-changelog-cli": "^3.0.0",
-    "husky": "^8.0.3",
-    "semantic-release": "^21.0.7",
-    "semantic-release-unsquash": "^0.1.2"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run commitlint"
-    }
+    "husky": "^8.0.0",
+    "semantic-release": "^21.0.7"
   },
   "repository": {
     "type": "git",
