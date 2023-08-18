@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/ecxluer/main_1/compare/v1.5.0...v1.5.1) (2023-08-18)
+
+
+### Bug Fixes
+
+* **MK-2445:** feat 123 ([d635347](https://github.com/ecxluer/main_1/commit/d635347b4995cb208f758adb6622417cceb654e2))
+
 # [1.5.0](https://github.com/ecxluer/main_1/compare/v1.4.1...v1.5.0) (2023-08-18)
 
 
