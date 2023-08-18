@@ -1,3 +1,17 @@
+# [1.3.0](https://github.com/ecxluer/main_1/compare/v1.2.2...v1.3.0) (2023-08-18)
+
+
+### Features
+
+* 1 ([eb7427f](https://github.com/ecxluer/main_1/commit/eb7427f5112e2c9ff0a37c19a3dd2e1fff3dec5b))
+* 1 ([fa1e289](https://github.com/ecxluer/main_1/commit/fa1e2890c6c504113779fd861a52e1442222af64))
+* 2 ([eb7427f](https://github.com/ecxluer/main_1/commit/eb7427f5112e2c9ff0a37c19a3dd2e1fff3dec5b))
+* 2 ([fa1e289](https://github.com/ecxluer/main_1/commit/fa1e2890c6c504113779fd861a52e1442222af64))
+* 3 ([eb7427f](https://github.com/ecxluer/main_1/commit/eb7427f5112e2c9ff0a37c19a3dd2e1fff3dec5b))
+* 3 ([fa1e289](https://github.com/ecxluer/main_1/commit/fa1e2890c6c504113779fd861a52e1442222af64))
+* 4 ([eb7427f](https://github.com/ecxluer/main_1/commit/eb7427f5112e2c9ff0a37c19a3dd2e1fff3dec5b))
+* 4 ([fa1e289](https://github.com/ecxluer/main_1/commit/fa1e2890c6c504113779fd861a52e1442222af64))
+
 ## [1.2.2](https://github.com/ecxluer/main_1/compare/v1.2.1...v1.2.2) (2023-08-17)
 
 
